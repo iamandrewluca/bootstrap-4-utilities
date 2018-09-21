@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-4-utilities",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 utilities ported for Bootstrap 3, Sass version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamandrewluca/bootstrap-4-utilities.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "utilities",
+    "v3",
+    "v4",
+    "sass"
+  ],
+  "author": "Andrew Luca <thendrluca@gmail.com> (https://iamandrewluca.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamandrewluca/bootstrap-4-utilities/issues"
+  },
+  "homepage": "https://github.com/iamandrewluca/bootstrap-4-utilities#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
