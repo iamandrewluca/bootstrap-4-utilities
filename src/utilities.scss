@@ -1,0 +1,13 @@
+@import "~bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+// functions does not depend on anything
+@import "~bootstrap/scss/functions";
+
+// bootstrap variables ported to bootstrap-sass variables
+@import "variables";
+
+// import mixins only used by utilities
+@import "mixins";
+
+@import "~bootstrap/scss/utilities";
+
