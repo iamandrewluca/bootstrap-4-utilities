@@ -1,6 +1,6 @@
 {
   "name": "@iamandrewluca/bootstrap-4-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bootstrap 4 utilities ported for Bootstrap 3, Sass version",
   "private": false,
   "scripts": {

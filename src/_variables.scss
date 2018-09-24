@@ -77,7 +77,7 @@ $body-color:                $gray-darker !default;
 
 $grid-breakpoints: (
   xs: 0,
-  sm: 576px,
+  sm: $screen-sm-min,
   md: $screen-md-min,
   lg: $screen-lg-min,
 ) !default;
